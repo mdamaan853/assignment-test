@@ -19,7 +19,7 @@ const CardDetails = () => {
             </section>
             <section className='col p-2'>
                 <div className=''>
-                <p className='Anniversary-text'>Anniversary Decor</p>
+                <p className='Anniversary-text'>Anniversary Decor Header-test</p>
                 <p className='decorator-text'>Purple Anniversary Decor with Occassion lighting</p>
                 <p className='border border-bottom'></p>
                 <p className='d-flex justify-content-start'><span className='discount-price'>₹ 2500 </span><span className='original-price mt-1'>₹ 3500</span><span className='off-price'>20% off</span></p>
